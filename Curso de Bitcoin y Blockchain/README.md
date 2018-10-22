@@ -180,7 +180,7 @@ La mayoría del dinero que conocemos no existe en papel sino en bases de datos, 
 
 <div align="center">
   <img src="img/reglas-dinero.png">
-  <small><p>Reglas para que un artivo sea considerado dinero</p></small>
+  <small><p>Reglas para que un activo sea considerado dinero</p></small>
 </div>
 
 Blockchain es un código open source, una base de datos peer to peer, distribuída y cifrada.
